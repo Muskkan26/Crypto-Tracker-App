@@ -32,7 +32,6 @@ A real-time cryptocurrency price tracking web application built with *React* and
 
 ## Preview
 
-![App Screenshot](https://via.placeholder.com/800x400?text=Crypto+Tracker+App+Screenshot)
 ![Screenshot 2025-04-25 022403](https://github.com/user-attachments/assets/071bbb26-6ea3-476d-9711-48bbe2eee2f2)
 
 ## Setup Instructions
